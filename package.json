@@ -1,5 +1,5 @@
 {
-  "name": "reactapp",
+  "name": "ls",
   "version": "1.0.0",
   "description": "npm -version",
   "main": "index.js",
@@ -25,5 +25,13 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-hot-loader": "^4.3.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamnguyenkms/reactapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tamnguyenkms/reactapp/issues"
+  },
+  "homepage": "https://github.com/tamnguyenkms/reactapp#readme"
 }
